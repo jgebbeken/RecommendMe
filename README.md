@@ -23,6 +23,7 @@ https://play.google.com/store/apps/details?id=dragons.android.recommendme
 * Butterknife for Databinding
 * Repositories for Best Practice between the ViewModel and the Database Module
 * Constraint Layout to adjust the UI to the screensize of the user's device
+* Admob for Firebase Ad Banners that are displayed on every 5th view on the RecyclerView.
 
 
 # Library Used
