@@ -19,6 +19,7 @@ https://play.google.com/store/apps/details?id=dragons.android.recommendme
 * Firebase Cloud Functions to protect Yelp's Third-Party API from any kind of abuse.
 * A widget to display your favorite restaurants
 * Butterknife for Databinding
+* Repositories for Best Practice between the ViewModel and the Database Module
 * Constraint Layout to adjust the UI to the screensize of the user's device
 
 
