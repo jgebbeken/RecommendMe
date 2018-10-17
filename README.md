@@ -1,5 +1,8 @@
 # Recommend Me Restaurants
 Ever been with friends or co-workers and can't decide a place to eat at? Thrown ideas at each other, but everyone is still undecided? Give Recommend Me a try. A roulette restaurant app where you customize your food types and have the app recommend restaurants based on what you set. The app finds your location and customizes your search based on the filters you have set. It will give a listing of restaurants and even give you details of the place like reviews or the hour it is open till. You can even share the listing with friends, call the restaurant if you need more information and even locate the restaurant on the map. Give Recommend Me a try today!
+
+<img src="https://github.com/jgebbeken/RecommendMe/blob/master/google-play-badge.png" width="150">
+
 https://play.google.com/store/apps/details?id=dragons.android.recommendme
 
 
