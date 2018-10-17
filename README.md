@@ -8,8 +8,10 @@ https://play.google.com/store/apps/details?id=dragons.android.recommendme
 
 # Features
 * Saves your favorites and food types in a SQLite database
-* Randomly generates the food type choice and lists the restaurant based on location and how expensive you are willing to pay for.
-* Ability to call the restaurant 
+* Randomly generates the food type choice and lists the restaurant based on location and how expensive you are willing to pay for
+* Ability to call the restaurant
+* See restaurant closing time
+* Intent to your favorite map app to see the location of the restaurant
 
 # Technical Features
 * Uses Android Architecture Components - LiveData, ViewModels, and Room. Manages your app's lifecycle with little effort, survives configuration changes, avoid memory leaks, and loads data to the UI.
