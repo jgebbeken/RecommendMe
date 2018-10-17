@@ -4,9 +4,6 @@ https://play.google.com/store/apps/details?id=dragons.android.recommendme
 
 
 # Features
-Saves your favorites and food types in a SQLite database
-Randomly generates the food type choice and lists the restaurant based on location and how pricy you are looking for.
-Ability to call the restaurant 
 
 
 # Library Used
