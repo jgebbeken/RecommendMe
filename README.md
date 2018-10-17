@@ -60,3 +60,7 @@ https://xd.adobe.com/view/1e879338-58f0-41d1-7d2e-cd446e464329-68b6/
 ## Restaurant Details
 <img src="https://github.com/jgebbeken/RecommendMe/blob/master/Screenshot_1539220654.png" width="400">
 
+
+
+
+Google Play and the Google Play logo are trademarks of Google LLC.
